@@ -1,5 +1,7 @@
-// bf1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Brainfuck to C Translator
+//Elliott Nash, v0idx.com
+
+
 
 #include "pch.h"
 #include <iostream>
